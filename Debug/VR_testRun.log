@@ -1,0 +1,7 @@
+﻿  VR-Demo-button3.cpp
+C:\Users\deant\Code\Graphics\Apps\VR-Demo-button3.cpp(525,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\deant\Code\Graphics\Apps\VR-Demo-button3.cpp(556,87): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\deant\Code\Graphics\Apps\VR-Demo-button3.cpp(607,59): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\deant\Code\Graphics\Apps\VR-Demo-button3.cpp(609,59): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\deant\Code\Graphics\Apps\VR-Demo-button3.cpp(610,59): warning C4305: 'argument': truncation from 'double' to 'float'
+  VR_testRun.vcxproj -> C:\Users\deant\Code\Graphics\VR_testRun\Debug\VR_testRun.exe
